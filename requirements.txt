@@ -1,0 +1,5 @@
+#Installing requirements
+requests
+pymongo[srv]
+python-dotenv
+pandas
